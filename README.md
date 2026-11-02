@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=RSF%20ROBIUL&fontSize=70&animation=twinkling" alt="RSF ROBIUL profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=HM%20ROBIUL&fontSize=70&animation=twinkling" alt="HM ROBIUL profile header" />
 </p>
 
 <!-- Title -->
 <h3 align="center">
     <samp>
         &gt; Hey There!, I am
-        <b><a target="_blank" href="https://rsf-robiul.blogspot.com/">RSF ROBIUL</a></b>
+        <b><a target="_blank" href="https://rsf-robiul.blogspot.com/">HM ROBIUL</a></b>
     </samp>
 </h3>
 
